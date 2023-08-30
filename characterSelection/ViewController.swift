@@ -31,6 +31,7 @@ class ViewController: UIViewController {
         switch1.setOn(false, animated: false)
         switch2.setOn(false, animated: false)
         switch3.setOn(false, animated: false)
+        print("test")
     }
 
     @IBAction func redButtonAction(_ sender: UIButton) {
